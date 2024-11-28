@@ -3,7 +3,9 @@
 
 <div align="center">
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+  
   [![trophy](https://github-profile-trophy.vercel.app/?username=Kup96&title=Commits,Experience&theme=algolia&row=2&column=2)](https://github.com/ryo-ma/github-profile-trophy)
+  
   ![](https://komarev.com/ghpvc/?username=Kup96)
 
 
