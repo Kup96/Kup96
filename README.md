@@ -58,7 +58,7 @@
 <br/>  
 
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Kup96&title=Experience&theme=algolia&row=2&column=2)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Kup96&title=Experience&theme=algolia&row=1&column=1)](https://github.com/ryo-ma/github-profile-trophy)
   
   ![](https://komarev.com/ghpvc/?username=Kup96)
 
