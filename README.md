@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Kup96&theme=algolia&no-bg=true&row=2&column=2)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Kup96&title=Commits,Experience,Repositories,Issues&theme=algolia&no-bg=true&row=2&column=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=Kup96)
 
